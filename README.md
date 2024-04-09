@@ -1,6 +1,9 @@
 # Blockchain Miner
 
 Este projeto implementa uma blockchain simples em Python, incluindo funções para minerar blocos, calcular hashes e verificar a integridade da cadeia. Além disso, ele fornece ferramentas para analisar estatísticas de mineração e realizar testes de integridade na blockchain.
+![Captura de tela 2024-04-09 015007](https://github.com/Bruno-Brandao-Silva/blockchain-miner/assets/72681281/3f5f7ce6-02bf-4771-a036-baafc5dfffa4)
+![Captura de tela 2024-04-09 015012](https://github.com/Bruno-Brandao-Silva/blockchain-miner/assets/72681281/ad6a47dc-99d2-40e3-96be-8832af9aca89)
+![Captura de tela 2024-04-09 015030](https://github.com/Bruno-Brandao-Silva/blockchain-miner/assets/72681281/5db8bfc1-6143-43af-aaef-ee475195f1d9)
 
 ## Conteúdo
 
